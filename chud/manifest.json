@@ -1,0 +1,169 @@
+{
+  "name": "Chud Box",
+  "description": "Base-level test pack: tap a mystery box, it opens, a random chud clip plays. Tiers are labeled but not gated yet.",
+  "box": {
+    "sprites": {
+      "closed_idle": "box/box_closed_idle.jpg",
+      "shaking": "box/box_shaking.jpg",
+      "open_burst": "box/box_open_burst.jpg",
+      "empty_open": "box/box_empty_open.jpg"
+    },
+    "opening_video_web": "box/web/box_opening.mp4",
+    "opening_duration": 5.042
+  },
+  "chuds": [
+    {
+      "id": "blue_glasses",
+      "name": "Blue Glasses",
+      "tier": "base",
+      "video": "base/web/blue_glasses.mp4",
+      "video_web": "base/web/blue_glasses.mp4",
+      "thumbnail": "base/thumbs/blue_glasses.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "green_unibrow_drool",
+      "name": "Green Unibrow Drool",
+      "tier": "base",
+      "video": "base/web/green_unibrow_drool.mp4",
+      "video_web": "base/web/green_unibrow_drool.mp4",
+      "thumbnail": "base/thumbs/green_unibrow_drool.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "pink_tongue_out",
+      "name": "Pink Tongue-Out",
+      "tier": "base",
+      "video": "base/web/pink_tongue_out.mp4",
+      "video_web": "base/web/pink_tongue_out.mp4",
+      "thumbnail": "base/thumbs/pink_tongue_out.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "tall_orange_confused",
+      "name": "Tall Orange Confused",
+      "tier": "base",
+      "video": "base/web/tall_orange_confused.mp4",
+      "video_web": "base/web/tall_orange_confused.mp4",
+      "thumbnail": "base/thumbs/tall_orange_confused.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "purple_sleepy_propeller",
+      "name": "Purple Sleepy Propeller",
+      "tier": "base",
+      "video": "base/web/purple_sleepy_propeller.mp4",
+      "video_web": "base/web/purple_sleepy_propeller.mp4",
+      "thumbnail": "base/thumbs/purple_sleepy_propeller.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "gray_shocked_bandage",
+      "name": "Gray Shocked Bandage",
+      "tier": "base",
+      "video": "base/web/gray_shocked_bandage.mp4",
+      "video_web": "base/web/gray_shocked_bandage.mp4",
+      "thumbnail": "base/thumbs/gray_shocked_bandage.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "teal_smug_mustache",
+      "name": "Teal Smug Mustache",
+      "tier": "base",
+      "video": "base/web/teal_smug_mustache.mp4",
+      "video_web": "base/web/teal_smug_mustache.mp4",
+      "thumbnail": "base/thumbs/teal_smug_mustache.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "peach_crying_laugh",
+      "name": "Peach Crying-Laugh",
+      "tier": "base",
+      "video": "base/web/peach_crying_laugh.mp4",
+      "video_web": "base/web/peach_crying_laugh.mp4",
+      "thumbnail": "base/thumbs/peach_crying_laugh.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "tall_yellow_wink",
+      "name": "Tall Yellow Wink",
+      "tier": "base",
+      "video": "base/web/tall_yellow_wink.mp4",
+      "video_web": "base/web/tall_yellow_wink.mp4",
+      "thumbnail": "base/thumbs/tall_yellow_wink.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "mint_spiral_eye",
+      "name": "Mint Spiral-Eye",
+      "tier": "base",
+      "video": "base/web/mint_spiral_eye.mp4",
+      "video_web": "base/web/mint_spiral_eye.mp4",
+      "thumbnail": "base/thumbs/mint_spiral_eye.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "lavender_toothy",
+      "name": "Lavender Toothy",
+      "tier": "base",
+      "video": "base/web/lavender_toothy.mp4",
+      "video_web": "base/web/lavender_toothy.mp4",
+      "thumbnail": "base/thumbs/lavender_toothy.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "coral_hanging_tongue",
+      "name": "Coral Hanging-Tongue",
+      "tier": "base",
+      "video": "base/web/coral_hanging_tongue.mp4",
+      "video_web": "base/web/coral_hanging_tongue.mp4",
+      "thumbnail": "base/thumbs/coral_hanging_tongue.jpg",
+      "duration": 5.042
+    },
+    {
+      "id": "existential_crisis",
+      "name": "Existential Crisis",
+      "tier": "premium",
+      "video": "premium/web/existential_crisis.mp4",
+      "video_web": "premium/web/existential_crisis.mp4",
+      "thumbnail": "premium/thumbs/existential_crisis.jpg",
+      "duration": 10.042
+    },
+    {
+      "id": "fourth_wall",
+      "name": "Fourth Wall",
+      "tier": "premium",
+      "video": "premium/web/fourth_wall.mp4",
+      "video_web": "premium/web/fourth_wall.mp4",
+      "thumbnail": "premium/thumbs/fourth_wall.jpg",
+      "duration": 10.042
+    },
+    {
+      "id": "slap",
+      "name": "Slap",
+      "tier": "premium",
+      "video": "premium/web/slap.mp4",
+      "video_web": "premium/web/slap.mp4",
+      "thumbnail": "premium/thumbs/slap.jpg",
+      "duration": 10.042
+    },
+    {
+      "id": "big_cute_blue",
+      "name": "Big Cute Blue",
+      "tier": "premium",
+      "video": "premium/web/big_cute_blue.mp4",
+      "video_web": "premium/web/big_cute_blue.mp4",
+      "thumbnail": "premium/thumbs/big_cute_blue.jpg",
+      "duration": 10.042
+    },
+    {
+      "id": "phone_breakout",
+      "name": "Phone Breakout",
+      "tier": "premium",
+      "video": "premium/web/phone_breakout.mp4",
+      "video_web": "premium/web/phone_breakout.mp4",
+      "thumbnail": "premium/thumbs/phone_breakout.jpg",
+      "duration": 10.042
+    }
+  ]
+}
