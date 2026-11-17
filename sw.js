@@ -1,5 +1,5 @@
 const CACHE = "chud-box-shell-v2";
-const BASE = "/chud-box/";
+const BASE = "/Chud-box/";
 const SHELL = [
   BASE,
   `${BASE}index.html`,
